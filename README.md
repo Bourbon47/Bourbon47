@@ -5,7 +5,11 @@
 Here is my "project code" and "learning space".
 
 paper review, daily life : https://blog.naver.com/wontae1998
+
+
 programming code : https://github.com/Bourbon47
+
+
 learning contents : Notion
   - DL
     - Computer Vision : https://crystal-pecorino-d31.notion.site/d52060810a554c88bff8109e57041983?v=8c0673ce5873444490ebe16d0cec1e95
