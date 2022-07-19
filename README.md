@@ -18,7 +18,7 @@ Learning Contents : Notion
 
 
 
-Certificationsand License
+Certification sand License
 
 	∙The Test of "General Computer User, Level - 1" (july.2020)
 	∙ADsP(Advanced Data Analytics Semi-Professional) (dec.2020)
