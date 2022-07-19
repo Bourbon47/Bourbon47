@@ -16,6 +16,8 @@ Learning Contents : Notion
     - NLP : https://www.notion.so/757ab02d2b254115b61ef65d737ba23d?v=0fa55f4be73244a6910b72131fb1d303
   - ML : https://crystal-pecorino-d31.notion.site/3b6edc256493489f88440e0fcf17d29d?v=c247fefd4eba48619c7ff0b20c8c722f
 
+
+
 Certificationsand License
 
 	∙The Test of "General Computer User, Level - 1" (july.2020)
