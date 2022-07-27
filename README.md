@@ -4,7 +4,7 @@
 
 Here is my "project code" and "learning space".
 
-Paper Review, Daily Life : https://blog.naver.com/wontae1998
+Paper Review, Presentation, Daily Life : https://blog.naver.com/wontae1998
 
 
 Project&Practice Code : https://github.com/Bourbon47
