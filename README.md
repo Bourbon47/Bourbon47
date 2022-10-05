@@ -10,13 +10,6 @@ Paper Review, Presentation, Daily Life : https://blog.naver.com/wontae1998
 Project&Practice Code : https://github.com/Bourbon47
 
 
-Learning Contents : Notion
-  - DL
-    - Computer Vision : https://crystal-pecorino-d31.notion.site/d52060810a554c88bff8109e57041983?v=8c0673ce5873444490ebe16d0cec1e95
-    - NLP : https://www.notion.so/757ab02d2b254115b61ef65d737ba23d?v=0fa55f4be73244a6910b72131fb1d303
-  - ML : https://crystal-pecorino-d31.notion.site/3b6edc256493489f88440e0fcf17d29d?v=c247fefd4eba48619c7ff0b20c8c722f
-
-
 
 Certification sand License
 
