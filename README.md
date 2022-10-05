@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wontae Choi.
-- 👀 I’m interested in Soccer, AI(Artificial Intelligence), Music.
-- 🌱 I’m currently learning about "Deep Learning" and "Data Analysis".
+- 👀 I’m interested in AI(Artificial Intelligence).
+- 🌱 I’m currently learning about "Computer Vision".
 
 Here is my "project code" and "learning space".
 
